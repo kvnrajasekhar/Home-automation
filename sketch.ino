@@ -4,8 +4,8 @@
 "FxGXLYwznRVovFThefpk93MU7_ZT9ZP" 
 // Your WiFi credentials. 
 // Set password to "" for open networks. 
-char ssid[] = "Karthik"; 
-char pass[] = "eswar@12345"; 
+char ssid[] = "wifi_username"; 
+char pass[] = "paswword@12345"; 
 bool fetch_blynk_state = true; 
 //#define BLYNK_PRINT Serial 
 #include <ESP8266WiFi.h> 
